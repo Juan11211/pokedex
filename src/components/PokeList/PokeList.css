@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(115deg 48%), #f35331 48%,  #fb7248 55%;
+}
+
+.all-container{
+    height: 86vh;
+    position: absolute;
+    top: 80px;
+    overflow-y: scroll;
+    width: 100%;
+}
