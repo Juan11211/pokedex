@@ -20,7 +20,7 @@ function NavBar() {
             </div>
         </div>
     </div>
-    <p style={{color: "white"}}>A -8gt; Z</p>
+    <p style={{color: "white"}}>A - Z</p>
 </div>
   )
 }
